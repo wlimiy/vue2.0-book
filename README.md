@@ -1,4 +1,6 @@
-![Image text](https://github.com/wlimiy/Note/blob/master/vueTodoList/image/img.png)
+![Image text](https://github.com/wlimiy/vue2.0-book/blob/master/images/1.png)
+![Image text](https://github.com/wlimiy/vue2.0-book/blob/master/images/2.png)
+![Image text](https://github.com/wlimiy/vue2.0-book/blob/master/images/3.png)
 ### 启后端服务
 mock>server.js
 ### 启前端服务
